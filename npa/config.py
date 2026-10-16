@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """조건과 세션 설정."""
 from __future__ import annotations
 

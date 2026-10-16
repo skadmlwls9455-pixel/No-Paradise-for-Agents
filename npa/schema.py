@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """행동 스키마와 파싱 (protocol.md §4)."""
 from __future__ import annotations
 

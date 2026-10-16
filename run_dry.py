@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """스텁 에이전트로 파일럿 그리드를 끝까지 돌려 규칙·로그를 점검한다.
 
     python run_dry.py --worlds 4 --out runs/dry

@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 import json
 
 import pytest

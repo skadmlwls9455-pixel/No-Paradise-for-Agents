@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """세션 엔진 (protocol.md §3~§7)."""
 from __future__ import annotations
 

@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """에이전트 인터페이스.
 
 엔진은 에이전트에 메시지 목록을 넘기고 문자열 하나를 받는다. 실제 모델은

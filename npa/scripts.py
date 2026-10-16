@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """스크립트 좌석의 고정 문구.
 
 모든 문구는 조건 간 문자 단위로 동일해야 한다 (명세서 4장 V2).

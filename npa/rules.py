@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """상태 전이 규칙 (protocol.md §5). 순수 함수만 둔다."""
 from __future__ import annotations
 

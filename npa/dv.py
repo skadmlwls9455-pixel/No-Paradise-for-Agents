@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """세션 결과 → 에이전트 수준 분석 행 (protocol.md §6)."""
 from __future__ import annotations
 

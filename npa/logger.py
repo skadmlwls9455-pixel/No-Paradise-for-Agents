@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Kate Nahm. All rights reserved. See LICENSE.
 """JSONL 이벤트 로거 (protocol.md §8)."""
 from __future__ import annotations
 
