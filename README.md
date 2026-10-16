@@ -11,3 +11,7 @@ v0.4 — 심사 결과 Major Revision. 다음 작업 순서:
 2. P1·P2 가설·조작 표현 정리 (J1 재명명, H7·V1-c·H8)
 3. P3 분석 계획: 분석 단위, 세계선 군집, 결측·이탈, 다중 비교, 시뮬레이션 검정력
 4. 코드북, OSF 사전등록 초안
+
+## 저작권 / Copyright
+Copyright (c) 2026 Kate Nahm. All rights reserved.
+연구 설계, 명세서, 세션 프로토콜, 코드와 구현 로직 일체의 권리는 Kate Nahm에게 있습니다. 사전 서면 허락 없이 복제·수정·배포·사용할 수 없습니다. 자세한 내용은 [LICENSE](LICENSE) 참조.
