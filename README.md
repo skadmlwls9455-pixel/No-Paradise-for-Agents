@@ -4,6 +4,8 @@
 
 - `spec/spec.md` — 연구 명세서 (버전별 변경은 git 이력과 문서 끝 "변경 이력" 참조)
 - `reviews/` — 받은 심사·리뷰
+- `docs/protocol.md` — 세션 프로토콜 (P0)
+- `npa/` — 세션 시뮬레이터, `run_dry.py`로 드라이런
 
 ## 현재 상태
 v0.4 — 심사 결과 Major Revision. 다음 작업 순서:
